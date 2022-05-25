@@ -12,7 +12,7 @@ char DriveX = Ch4;
 char DriveY = Ch3;
 
 // Arm Axis
-char Arm = Ch2
+char Arm = Ch2;
 
 // Elbow Control Map
 char ElbowUP = Btn5U;
